@@ -38,12 +38,13 @@ Ingredients:
 - 1 clove garlic, minced
 - 2 tablespoons olive oil
 - 2 tablespoons balsamic vinegar
+- 1g of Feta cheese
 - Salt and pepper to taste
 
 Instructions:
 1. Preheat oven to 350°F.
 2. Place baguette slices on a baking sheet and bake for 5-7 minutes or until lightly toasted.
-3. In a mixing bowl, combine tomatoes, red onion, garlic, olive oil, and balsamic vinegar.
+3. In a mixing bowl, combine tomatoes, red onion, garlic, olive oil, feta cheese, and balsamic vinegar.
 4. Season with salt and pepper to taste.
 5. Top each toasted baguette slice with the tomato mixture.
 
