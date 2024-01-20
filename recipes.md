@@ -113,3 +113,33 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Zesty Lemon Tarts
+
+Serving size: 6 tartlets
+
+Ingredients:
+- 250g (1 1/2 cups) all-purpose flour
+- 125g (1/2 cup) unsalted butter, cold and cubed
+- 50g (1/4 cup) granulated sugar
+- 1 large egg yolk
+- Zest of 1 lemon
+- Juice of 2 lemons
+- 200g (1 cup) sweetened condensed milk
+- Fresh mint leaves (for garnish, optional)
+
+Instructions:
+1. Preheat the oven to 180°C (350°F).
+2. In a mixing bowl, combine the flour, cubed butter, and sugar. Use your fingertips to rub the butter into the flour until the mixture resembles breadcrumbs.
+3. Add the egg yolk and lemon zest to the mixture, and knead until the dough comes together.
+4. Roll out the dough on a lightly floured surface until it is about 0.4cm (1/6 inch) thick. Cut out 6 circles, large enough to line your tartlet molds.
+5. Carefully press the dough circles into the molds, ensuring they cover the bottom and sides evenly. Trim any excess dough.
+6. In a separate bowl, whisk together the lemon juice and sweetened condensed milk until well combined.
+7. Pour the lemon mixture into the prepared tartlet molds, filling them to the top.
+8. Place the tartlets on a baking sheet and bake in the preheated oven for 15-20 minutes, or until the edges are golden brown and the filling is set.
+9. Remove the tartlets from the oven and allow them to cool completely.
+10. Once cooled, remove the tartlets from their molds and transfer them to a serving plate.
+11. Garnish with fresh mint leaves, if desired.
+12. Serve the zesty lemon tarts and enjoy their refreshing citrus goodness!
+
+Note: If you prefer a more tart flavor, you can increase the amount of lemon juice to suit your taste.
