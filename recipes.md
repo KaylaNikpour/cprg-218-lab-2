@@ -9,9 +9,13 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+<<<<<<< HEAD
     - [Zesty Lemom Tarts](#Zesty-lemon-tarts)
 
     
+=======
+
+>>>>>>> parent of 68f1cf8... Add yellow onions to spinach dip recipe
 ## Appetizers
 ### Spinach and Artichoke Dip
 
@@ -22,7 +26,6 @@ Ingredients:
 - 1 cup grated Parmesan cheese
 - 1/2 cup shredded mozzarella cheese
 - 2 cloves garlic, minced
-- 1/4 cup of finely diced yellow onion
 
 Instructions:
 1. Preheat oven to 350°F.
@@ -149,4 +152,4 @@ Instructions:
 11. Garnish with fresh mint leaves, if desired.
 12. Serve the zesty lemon tarts and enjoy their refreshing citrus goodness!
 
-Note: If you prefer a more tart flavor, you can increase the amount of lemon juice to suit your taste. 
+Note: If you prefer a more tart flavor, you can increase the amount of lemon juice to suit your taste.
